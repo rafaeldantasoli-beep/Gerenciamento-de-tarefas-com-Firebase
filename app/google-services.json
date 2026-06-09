@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869872822384",
+    "project_id": "gerenciamento-firebase-rafael",
+    "storage_bucket": "gerenciamento-firebase-rafael.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869872822384:android:4d4788c8555534f8f3ecb5",
+        "android_client_info": {
+          "package_name": "com.example.gerenciadordetarefascomfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKcJhB5R88zsreYYz94NbFlncdBhpmNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
